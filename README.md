@@ -72,4 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # portfolio
 Projeto do meu primeiro Portfólio, construção em Andamento
->>>>>>> 9985fd22242cf809960504c8fb7e294ce4b5f4fc
