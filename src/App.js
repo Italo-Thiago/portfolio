@@ -1,13 +1,13 @@
-import './index.css'
+import '../src/styles/global.css'
+
+import { MainRoutes } from './components/Routes';
 
 function App() {
-  return (
-    <div className="App">
-      <h1 className='text-3xl font-bold underline'>
-        Hello World!
-      </h1>
-    </div>
-  );
+    return (
+        <div className="App">
+            <MainRoutes /> 
+        </div>
+    );
 }
 
 export default App;
